@@ -1,0 +1,15 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Mulish', sans-serif;
+}
+
+.navbar a:hover {
+    color: rgb(0, 187, 255) !important;
+}
+
+.menu_active {
+    font-weight: 600;
+    border-bottom: 1px solid rgb(0, 187, 255);
+}
